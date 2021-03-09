@@ -1,4 +1,4 @@
-FROM runatlantis/atlantis:v0.16.0
+FROM runatlantis/atlantis:v0.16.1
 
 USER ROOT
 CMD apk add jq postgresql-client
